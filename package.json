@@ -1,21 +1,28 @@
 {
-  "name": "lambda-todo",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-todo",
+  "version": "1.0.0",
+  "description": "We're going to practice building a stateful class component with this project. Even though hooks are gaining popularity among react developers, class components are going to be around for a long time. It's imperative that you get use to class components, and feel comfortable working with class components since you'll most likely need to work with them if you are hired to work on a React app.",
+  "main": "index.js",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Marshall218/React-Todo.git"
   },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Marshall218/React-Todo/issues"
+  },
+  "homepage": "https://github.com/B-Marshall218/React-Todo#readme",
   "browserslist": {
     "production": [
       ">0.2%",
